@@ -1,6 +1,6 @@
 # rotateBase64Img
 >It's time to show my fluent Chinese    
-有不合理的地方欢迎小伙伴雅正
+有不合理的地方欢迎小伙伴纠正
 
 **js旋转base64图片90*N度，并产生新的base64数据**
 
